@@ -64,6 +64,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[Native Base](https://nativebase.io/)**
 - **[React Navigation](https://reactnavigation.org/)**
+- **[React Native Firebase](https://rnfirebase.io/)**
 
 > Veja o arquivo [package.json](https://github.com/viniciussgp/rockethelp/blob/main/package.json)
 
